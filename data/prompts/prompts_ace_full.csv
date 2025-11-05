@@ -1,0 +1,16 @@
+Add:prompt start, material ( and material , material , material , material , material ) was added to container at temperature ,end
+Stir:prompt start, sample ( and sample , sample , sample ) was stirred at temperature at revolution for duration ,end
+Age:prompt start, wait for duration at temperature at revolution under pressure ,end
+Wash:prompt start, wash sample ( and sample , sample , sample ) with solvent ( and solvent ) by times ( and times ) ,end
+Dry:prompt start, sample ( and sample , sample , sample ) was dried in container at temperature for duration under condition ,end
+Calcine:prompt start, sample ( and sample , sample , sample ) was calcined in container at temperature for duration under condition ,end
+Particle.Recovery:prompt start, material ( and material , material ) was recovered for duration at revolution ,end
+Set.PH:prompt start, material ( and material , material ) was set to PH ,end
+Cool:prompt start, sample ( and sample , sample , sample ) was cooled in container at temperature for duration under condition ,end
+Heat:prompt start, sample ( and sample , sample , sample ) was heated in container at rate to temperature for duration at revolution under pressure ,end
+Crystallize:prompt start, crystallize in container at temperature for duration at revolution at revolutiontext under pressure ,end
+Transfer:prompt start, sample ( and sample , sample , sample ) was transferred to container ,end
+Seal:prompt start, sample ( and sample , sample , sample ) was sealed in container ,end
+Sonicate:prompt start, sample ( and sample , sample , sample ) was sonicated with solvent ( and solvent ) ,end
+React:prompt start, material ( and material , material , material ) was treated at temperature for duration under condition ,end
+Rotate:prompt start, sample ( and sample , sample ) was rotated in container at temperature for duration at revolution ,end
