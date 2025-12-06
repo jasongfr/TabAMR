@@ -7,7 +7,7 @@ transformers==4.30.2
 
 torch==1.13.1+cu117  
 
-en-core-web-sm-3.7.1  
+en-core-web-sm==3.7.1  
 
 tqdm  
 
@@ -18,6 +18,8 @@ pydantic
 six
 
 # Model Inference
-Running bash ./scripts/infer_ace.sh will initiate model inference.  
+To run model inference, execute:
+```bash
+bash ./scripts/infer_ace.sh
 
 The model inference results are saved in the Infer/zsee folder.
