@@ -21,5 +21,5 @@ six
 To run model inference, execute:
 ```bash
 bash ./scripts/infer_ace.sh
-
+```
 The model inference results are saved in the Infer/zsee folder.
