@@ -1,5 +1,5 @@
 <img width="1176" height="650" alt="image" src="https://github.com/user-attachments/assets/5ba32936-5518-480b-9138-e5d993508aba" />
-
+The folders "tabamr-zsee" and "roberta-large" contain large .bin files. Please be cautious when downloading them.
 # Required Dependencies
 Python 3.9  
 
