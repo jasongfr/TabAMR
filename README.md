@@ -20,8 +20,10 @@ six
 
 # Model Inference
 To run model inference, execute:
- **Data**: *Due to project requirements for data confidentiality, only a small amount of data has been included in the test set.*
 ```bash
 bash ./scripts/infer_ace.sh
 ```
+
+ **Data**: *Due to project requirements for data confidentiality, only a small amount of data has been included in the test set.*
+ 
 The model inference results are saved in the Infer/zsee folder.
